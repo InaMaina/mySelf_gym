@@ -1,0 +1,49 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  background-color: #ffd11a; }
+
+.list h3 {
+  text-transform: uppercase;
+  color: #ffe6ff;
+  margin-bottom: 30px;
+  font-size: 2em;
+  -webkit-box-shadow: inset -50px 53px 53px -28px rgba(222, 191, 222, 0.81);
+  -moz-box-shadow: inset -50px 53px 53px -28px rgba(222, 191, 222, 0.81);
+  box-shadow: inset -50px 53px 53px -28px rgba(222, 191, 222, 0.81); }
+.list input, .list button {
+  font-size: 1.2em;
+  margin: 20px 60px 0px 190px;
+  border-radius: 10px;
+  border: 2px solid #ffd9b3;
+  padding: 7px 200px;
+  color: #FF0099; }
+  .list input[type=text]:focus, .list button[type=text]:focus {
+    background-color: #ffd9b3; }
+  .list input[type=email]:focus, .list button[type=email]:focus {
+    background-color: #ffd9b3; }
+  .list input[type=password]:focus, .list button[type=password]:focus {
+    background-color: #ffd9b3; }
+  .list input:hover, .list button:hover {
+    border-color: none;
+    background-color: #ffd9b3; }
+.list button {
+  color: gray;
+  background-color: #ffd9b3;
+  border-bottom-left-radius: 10px; }
+
+a {
+  clear: both;
+  float: left;
+  list-style: none;
+  color: #FF0099;
+  text-decoration: none;
+  font-size: 1.2em;
+  margin-left: 190px;
+  margin-top: 20px; }
+  a:hover {
+    padding: 10px 40px;
+    border: 1px solid #FF0099;
+    border-bottom-left-radius: 10px; }
+
+/*# sourceMappingURL=contact.css.map */
